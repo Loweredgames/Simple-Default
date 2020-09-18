@@ -1,8 +1,8 @@
 ---
 name: Feature request
 about: Suggest an idea for this project
-title: idea
-labels: enhancement
+title: idea(n.)
+labels: idea
 assignees: Lorenzo0310200
 
 ---
