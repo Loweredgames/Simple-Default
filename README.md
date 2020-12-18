@@ -1,4 +1,4 @@
-# Simply-resources-pack-Building-Snapshots
+# Simply resources pack Building Snapshots
 Simply resources pack (Building Snapshots)
 
 
@@ -6,4 +6,4 @@ this is a demo version of my resources pack. check the latest version: https://g
 
 
 Tag
-semantic version tag: (number),(letter) es: 15c
+semantic version: (number),(letter) es: 15c
