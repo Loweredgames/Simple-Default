@@ -1,7 +1,7 @@
 ---
 name: Bug report
 about: Create a report to help us improve
-title: "(Bug name and version)"
+title: "(Bug Name)"
 labels: bug
 assignees: Lorenzo0310200
 
