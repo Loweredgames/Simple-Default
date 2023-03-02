@@ -1,0 +1,14 @@
+
+release resources pack: 1.16.5-1.0
+
+editions: Java Edition
+
+building snapshots: JE-1.16.5-PRE-RELEASE 1
+
+release tag Github: 1.16_3a
+
+release Minecraft: 1.16.5
+
+snapshots Minecraft: //
+
+pack version: 6

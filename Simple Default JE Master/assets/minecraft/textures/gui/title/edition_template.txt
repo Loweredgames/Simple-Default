@@ -1,0 +1,6 @@
+1 - diminuire a 128 x 16 l'immagine della aggiornamento 
+2 - eliminare java edition (deve rimanere vuoto)
+3 - copiare l'aggiornamento
+4 - aumentare la dimensione della superficie in Gimp a 188 x 16
+5 - incolare l'aggiornamento
+6 - fondere il livello e l'asciarlo cosi (non serve cambiarlo)
