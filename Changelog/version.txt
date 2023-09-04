@@ -1,14 +1,10 @@
 
-release resources pack: 1.16.5-1.0
+Release Resources Pack: 1.20.2-1.0.0 [Release Update]
 
-editions: Java Edition
+Building Snapshots: 1.20.2-BUILDING:04.09.2023a
 
-building snapshots: JE-1.16.5-PRE-RELEASE 1
+release tag Github: 1.20.2_0a
 
-release tag Github: 1.16_3a
+release Minecraft: 1.20.2
 
-release Minecraft: 1.16.5
-
-snapshots Minecraft: //
-
-pack version: 6
+pack version: 1
