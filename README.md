@@ -2,7 +2,7 @@
 
 (Logo)
 
-Descrizione breve-DAFARE
+*Simple Default è un Resources pack di Minecraft per Java Edition che riduce lo stile e rende tutto molto semplice ma mantenendo i dettagli.*
 
 # Feature Resources pack:
 - DA FARE
