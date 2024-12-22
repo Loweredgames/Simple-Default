@@ -2,11 +2,11 @@
 
 (Logo)
 
-Descrizione breve
+Descrizione breve-DAFARE
 
-# Story: (Se c'è una storia se no cancellare)
+# Feature Resources pack:
+- DA FARE
 
-# Feature: (le feature della mappa)
 
 READ THE LICENZE BEFORE DOWNLOADING THE DATAPACK:
 https://github.com/Loweredgames/Simple-Default/blob/master/Simple%20Default/LICENSE
